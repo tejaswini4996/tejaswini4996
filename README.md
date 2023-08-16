@@ -10,8 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tejaswini4996&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: tokyonight)"
+    srcset="https://github-readme-stats.vercel.app/api?username=tejaswini4996&show_icons=true&theme=Gradient
+"
+    media="(prefers-color-scheme:Gradient
+)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=tejaswini4996&show_icons=true"

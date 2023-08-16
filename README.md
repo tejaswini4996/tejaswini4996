@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @tejaswini4996
 
 - # Hi there, I'm Tejaswini <img align="center" src="https://media.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif" width="35">
 <img src="https://komarev.com/ghpvc/?username=tejaswini4996&label=Profile%20views&color=1f6fea&style=plastic" alt="Profile view count"/>
+
+## I'm an Software Developer<img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
+
 - 👀 I’m interested in OpenSource Development and Problem Solving
 - 🌱 I’m currently working on my projects and exploring technology
 - 💞️ I’m looking to connect with other developers

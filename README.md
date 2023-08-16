@@ -1,8 +1,9 @@
 
-## Hi there, I'm Tejaswini <img align="center" src="https://media.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif" width="35">
+## Hi there, I'm Tejaswini <img align="center"  width="35">
 <img src="https://komarev.com/ghpvc/?username=tejaswini4996&label=Profile%20views&color=1f6fea&style=plastic" alt="Profile view count"/>
 
-## I'm an Software Developer<img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
+## I'm a Software Developer
+
 
 - 👀 I’m interested in OpenSource Development and Problem Solving
 - 🌱 I’m currently working on my projects and exploring technology
@@ -27,6 +28,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=tejaswini4996&show_icons=true" />
 </picture>
 
+
+[![GitHub stats](https://github-readme-stats-tejaswini4996.vercel.app//api?username=tejaswini4996&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe )](https://github.com/tejaswini4996/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswini4996&theme=github-dark&hide_border=true" alt="tejaswini4996"/></p>
 
 
 

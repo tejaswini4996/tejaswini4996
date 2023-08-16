@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejaswini4996
-- 👀 I’m interested in OpenSource Developement and Problem Solving
-- 🌱 I’m currently working on my projects and exploring technolgy
+- 👀 I’m interested in OpenSource Development and Problem Solving
+- 🌱 I’m currently working on my projects and exploring technology
 - 💞️ I’m looking to connect with other developers
 - 📫 How to reach me tejaswinigajbhiye4996@gmail.com
 

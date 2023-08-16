@@ -16,14 +16,13 @@ You can click the Preview link to take a look at your changes.
 )"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tejaswini4996&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=tejaswini4996&show_icons=true&bg_color=00000000"
     media="(prefers-color-scheme: transparent), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=tejaswini4996&show_icons=true" />
 </picture>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswini4996&layout=compact)
 
 
 

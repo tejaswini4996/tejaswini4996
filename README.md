@@ -31,6 +31,9 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub stats](https://github-readme-stats-tejaswini4996.vercel.app//api?username=tejaswini4996&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe )](https://github.com/tejaswini4996/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats-tejaswini4996.vercel.app/api?username=tejaswini4996&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&cache_buster=1)
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswini4996&theme=github-dark&hide_border=true" alt="tejaswini4996"/></p>
 
